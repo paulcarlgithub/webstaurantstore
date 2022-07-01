@@ -1,0 +1,6 @@
+pom\pages\AddToCartComponent.class
+pom\base\BasePage.class
+pom\base\BaseTest.class
+pom\pages\ViewCartPage.class
+pom\pages\MainPage.class
+pom\pages\ResultsPage.class
